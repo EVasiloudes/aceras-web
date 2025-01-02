@@ -11,6 +11,8 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+Test Test
+
 Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!
 
 For more information about this theme, check the documentation: https://stack.jimmycai.com/
