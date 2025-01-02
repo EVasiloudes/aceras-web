@@ -1,0 +1,3 @@
+[submodule "hugo-aceras-root/themes/hugo-theme-stack-starter"]
+	path = hugo-aceras-root/themes/hugo-theme-stack-starter
+	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
