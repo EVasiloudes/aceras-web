@@ -1,10 +1,10 @@
 ---
-title: Example Category
+title: Παλία
 description: A description of this category
 image:
 
 # Badge style
 style:
-    background: "#2a9d8f"
+    background: "#a51701"
     color: "#fff"
 ---
