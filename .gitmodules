@@ -1,3 +1,9 @@
 [submodule "hugo-aceras-root/themes/hugo-theme-stack-starter"]
 	path = hugo-aceras-root/themes/hugo-theme-stack-starter
 	url = https://github.com/CaiJimmy/hugo-theme-stack-starter.git
+[submodule "hugo-aceras-root/wordpressMigration/blog2md"]
+	path = hugo-aceras-root/wordpressMigration/blog2md
+	url = https://github.com/palaniraja/blog2md
+[submodule "hugo-aceras-root/wordpressMigration/Blogger-To-Markdown"]
+	path = hugo-aceras-root/wordpressMigration/Blogger-To-Markdown
+	url = https://github.com/mavlevin/Blogger-To-Markdown
